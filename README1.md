@@ -2,6 +2,9 @@
 
 ## I'm Softwear Engeneer
 
-Languages and Tools
+### Languages and Tools
+![Firebase](https://img.shields.io/badge/-Firebase-yellow)
+
+![Amplitude](https://img.shields.io/badge/-Amplitude-blue)
 
 Follow Me
